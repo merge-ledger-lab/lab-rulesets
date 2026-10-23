@@ -1,0 +1,5 @@
+version: 1
+require_human_approval:
+  paths: ["infra/**"]
+  must_cover_head: true
+  on_stale_only: warn
