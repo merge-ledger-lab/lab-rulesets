@@ -1,1 +1,1 @@
-[seed:admin-bypass-ruleset]
+[seed:admin-bypass-ruleset:r4]
