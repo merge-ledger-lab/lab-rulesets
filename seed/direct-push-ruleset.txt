@@ -1,1 +1,1 @@
-[seed:direct-push-ruleset:r2c]
+[seed:direct-push-ruleset:r4]
