@@ -1,1 +1,1 @@
-[seed:admin-bypass-ruleset-standard]
+[seed:admin-bypass-ruleset-standard:r2b]
